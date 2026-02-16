@@ -1,0 +1,159 @@
+----------------------------------------
+-- BASIC KPIs
+----------------------------------------
+
+-- Total Visitors
+Total Visitors = COUNT('Sheet1'[Visitor ID])
+
+-- Average Wait Time
+Avg Wait Time = AVERAGE('Sheet1'[Wait Time])
+
+-- Average Satisfaction
+Avg Satisfaction = AVERAGE('Sheet1'[Satisfaction Score])
+
+----------------------------------------
+-- TIME INTELLIGENCE
+----------------------------------------
+
+-- Previous Year Visitors
+Previous Year Visitors =
+CALCULATE(
+    [Total Visitors],
+    SAMEPERIODLASTYEAR('Sheet1'[Date])
+)
+
+-- Year over Year Growth %
+YoY Growth % =
+DIVIDE(
+    [Total Visitors] - [Previous Year Visitors],
+    [Previous Year Visitors]
+)
+
+----------------------------------------
+-- WAIT TIME ANALYSIS
+----------------------------------------
+
+-- High Wait Time % (> 60 mins)
+High Wait % =
+DIVIDE(
+    COUNTROWS(
+        FILTER('Sheet1', 'Sheet1'[Wait Time] > 60)
+    ),
+    [Total Visitors]
+)
+
+-- Very High Wait Time % (> 90 mins)
+Very High Wait % =
+DIVIDE(
+    COUNTROWS(
+        FILTER('Sheet1', 'Sheet1'[Wait Time] > 90)
+    ),
+    [Total Visitors]
+)
+
+----------------------------------------
+-- SATISFACTION ANALYSIS
+----------------------------------------
+
+-- Low Satisfaction % (<= 2)
+Low Satisfaction % =
+DIVIDE(
+    COUNTROWS(
+        FILTER('Sheet1', 'Sheet1'[Satisfaction Score] <= 2)
+    ),
+    [Total Visitors]
+)
+
+-- High Satisfaction % (>= 4)
+High Satisfaction % =
+DIVIDE(
+    COUNTROWS(
+        FILTER('Sheet1', 'Sheet1'[Satisfaction Score] >= 4)
+    ),
+    [Total Visitors]
+)
+
+----------------------------------------
+-- RISK METRIC (WAIT + SATISFACTION)
+----------------------------------------
+
+-- High Wait & Low Satisfaction %
+High Wait & Low Satisfaction % =
+DIVIDE(
+    COUNTROWS(
+        FILTER(
+            'Sheet1',
+            'Sheet1'[Wait Time] > 60 &&
+            'Sheet1'[Satisfaction Score] <= 2
+        )
+    ),
+    [Total Visitors]
+)
+
+----------------------------------------
+-- WEEKDAY / WEEKEND ANALYSIS
+----------------------------------------
+
+-- Weekday %
+Weekday % =
+DIVIDE(
+    CALCULATE(
+        [Total Visitors],
+        'Sheet1'[Weekday/weekend] = "Weekday"
+    ),
+    [Total Visitors]
+)
+
+-- Weekend %
+Weekend % =
+DIVIDE(
+    CALCULATE(
+        [Total Visitors],
+        'Sheet1'[Weekday/weekend] = "Weekend"
+    ),
+    [Total Visitors]
+)
+
+----------------------------------------
+-- DEPARTMENT ANALYSIS
+----------------------------------------
+
+-- Emergency Visitors %
+Emergency % =
+DIVIDE(
+    CALCULATE(
+        [Total Visitors],
+        'Sheet1'[Department Refferal] = "Emergency"
+    ),
+    [Total Visitors]
+)
+
+-- Emergency High Wait %
+Emergency High Wait % =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('Sheet1'),
+        'Sheet1'[Department Refferal] = "Emergency",
+        'Sheet1'[Wait Time] > 60
+    ),
+    CALCULATE(
+        COUNTROWS('Sheet1'),
+        'Sheet1'[Department Refferal] = "Emergency"
+    )
+)
+
+----------------------------------------
+-- AGE ANALYSIS
+----------------------------------------
+
+-- Average Age
+Avg Age = AVERAGE('Sheet1'[Age])
+
+-- Senior Patients % (> 60 years)
+Senior Patients % =
+DIVIDE(
+    COUNTROWS(
+        FILTER('Sheet1', 'Sheet1'[Age] > 60)
+    ),
+    [Total Visitors]
+)

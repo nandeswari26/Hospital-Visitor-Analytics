@@ -1,0 +1,504 @@
+﻿Year,Quarter,Month,Day,Visitor ID,Gender,Sum of Age,Race,Moment,Weekday/weekend,Admin Flag,Department Refferal,Sum of Satisfaction Score,Sum of Wait Time
+2023,Qtr 1,January,1,V0060,Male,32,Native American,PM,Weekend,Non-Patient,Physiotherapy,1,84
+2023,Qtr 1,January,1,V0244,Male,16,African American,AM,Weekend,Patient,Neurology,1,37
+2023,Qtr 1,January,2,V0053,Male,46,White,PM,Weekday,Non-Patient,Cardiology,10,38
+2023,Qtr 1,January,2,V0501,Male,75,Asian,PM,Weekday,Non-Patient,Cardiology,4,38
+2023,Qtr 1,January,3,V0026,Male,1,Native American,AM,Weekday,Non-Patient,Cardiology,5,32
+2023,Qtr 1,January,3,V0069,Male,19,Asian,AM,Weekday,Patient,Neurology,4,48
+2023,Qtr 1,January,4,V0140,Female,13,White,PM,Weekday,Non-Patient,Physiotherapy,9,13
+2023,Qtr 1,January,4,V0372,Female,71,White,PM,Weekday,Patient,Physiotherapy,9,43
+2023,Qtr 1,January,4,V0404,Female,13,Asian,AM,Weekday,Patient,Neurology,8,25
+2023,Qtr 1,January,4,V0481,Male,56,Asian,PM,Weekday,Patient,Orthopedics,2,42
+2023,Qtr 1,January,4,V0495,Male,83,Native American,PM,Weekday,Non-Patient,Cardiology,3,37
+2023,Qtr 1,January,5,V0284,Male,18,Asian,AM,Weekday,Non-Patient,General Practice,3,10
+2023,Qtr 1,January,5,V0422,Female,41,Asian,AM,Weekday,Patient,General Practice,6,17
+2023,Qtr 1,January,7,V0362,Female,12,Asian,PM,Weekend,Patient,Neurology,3,37
+2023,Qtr 1,January,8,V0084,Male,60,African American,PM,Weekend,Non-Patient,General Practice,5,13
+2023,Qtr 1,January,9,V0500,Female,46,Asian,PM,Weekday,Patient,Physiotherapy,5,89
+2023,Qtr 1,January,11,V0071,Male,33,Native American,PM,Weekday,Patient,General Practice,1,45
+2023,Qtr 1,January,11,V0304,Male,18,White,PM,Weekday,Non-Patient,Cardiology,6,49
+2023,Qtr 1,January,11,V0311,Female,33,African American,PM,Weekday,Non-Patient,General Practice,2,59
+2023,Qtr 1,January,11,V0343,Male,12,Pacific Islander,AM,Weekday,Patient,General Practice,7,62
+2023,Qtr 1,January,12,V0044,Male,65,White,PM,Weekday,Patient,Neurology,3,57
+2023,Qtr 1,January,12,V0238,Male,83,Pacific Islander,PM,Weekday,Patient,General Practice,2,35
+2023,Qtr 1,January,12,V0280,Female,61,Asian,PM,Weekday,Non-Patient,Orthopedics,9,34
+2023,Qtr 1,January,13,V0095,Female,61,African American,PM,Weekday,Non-Patient,Physiotherapy,10,85
+2023,Qtr 1,January,14,V0125,Male,66,African American,AM,Weekend,Non-Patient,Cardiology,9,25
+2023,Qtr 1,January,15,V0381,Male,59,Native American,AM,Weekend,Patient,Orthopedics,8,20
+2023,Qtr 1,January,18,V0226,Female,44,Asian,AM,Weekday,Non-Patient,Orthopedics,8,33
+2023,Qtr 1,January,18,V0471,Male,43,White,AM,Weekday,Non-Patient,General Practice,5,13
+2023,Qtr 1,January,19,V0102,Male,2,White,PM,Weekday,Patient,Physiotherapy,2,67
+2023,Qtr 1,January,21,V0370,Female,18,Pacific Islander,PM,Weekend,Non-Patient,Physiotherapy,10,52
+2023,Qtr 1,January,22,V0212,Male,64,Asian,AM,Weekend,Non-Patient,Neurology,10,32
+2023,Qtr 1,January,22,V0271,Female,64,Asian,AM,Weekend,Patient,General Practice,5,12
+2023,Qtr 1,January,23,V0115,Female,23,White,AM,Weekday,Non-Patient,General Practice,10,18
+2023,Qtr 1,January,23,V0319,Female,69,Native American,AM,Weekday,Non-Patient,Physiotherapy,8,73
+2023,Qtr 1,January,23,V0339,Male,7,White,PM,Weekday,Patient,Cardiology,8,55
+2023,Qtr 1,January,26,V0371,Male,81,Pacific Islander,AM,Weekday,Patient,Orthopedics,8,37
+2023,Qtr 1,January,28,V0054,Female,6,Native American,PM,Weekend,Non-Patient,Physiotherapy,9,39
+2023,Qtr 1,January,29,V0130,Male,30,Native American,PM,Weekend,Patient,Neurology,2,69
+2023,Qtr 1,January,29,V0438,Female,47,Asian,AM,Weekend,Non-Patient,Cardiology,10,50
+2023,Qtr 1,February,2,V0147,Male,10,Native American,AM,Weekday,Non-Patient,Physiotherapy,4,19
+2023,Qtr 1,February,3,V0031,Female,58,Native American,PM,Weekday,Non-Patient,Physiotherapy,10,23
+2023,Qtr 1,February,3,V0383,Female,17,Native American,PM,Weekday,Patient,Cardiology,8,60
+2023,Qtr 1,February,3,V0390,Female,13,Asian,PM,Weekday,Patient,Orthopedics,9,36
+2023,Qtr 1,February,4,V0057,Male,51,Pacific Islander,AM,Weekend,Patient,General Practice,6,27
+2023,Qtr 1,February,4,V0210,Male,5,White,AM,Weekend,Non-Patient,Orthopedics,3,38
+2023,Qtr 1,February,5,V0206,Female,73,African American,PM,Weekend,Non-Patient,Orthopedics,2,40
+2023,Qtr 1,February,5,V0401,Male,76,White,AM,Weekend,Patient,General Practice,5,50
+2023,Qtr 1,February,6,V0409,Male,12,Native American,PM,Weekday,Non-Patient,Cardiology,2,67
+2023,Qtr 1,February,7,V0286,Female,6,Native American,AM,Weekday,Non-Patient,General Practice,5,34
+2023,Qtr 1,February,7,V0469,Female,63,Pacific Islander,PM,Weekday,Non-Patient,Orthopedics,10,71
+2023,Qtr 1,February,8,V0051,Female,12,Native American,AM,Weekday,Non-Patient,Physiotherapy,6,37
+2023,Qtr 1,February,8,V0485,Female,77,Pacific Islander,PM,Weekday,Non-Patient,General Practice,3,33
+2023,Qtr 1,February,10,V0138,Female,76,Pacific Islander,AM,Weekday,Patient,Physiotherapy,10,66
+2023,Qtr 1,February,10,V0341,Female,82,Asian,PM,Weekday,Non-Patient,General Practice,8,80
+2023,Qtr 1,February,11,V0096,Male,70,Native American,PM,Weekend,Patient,Orthopedics,7,57
+2023,Qtr 1,February,12,V0023,Male,79,African American,PM,Weekend,Patient,Physiotherapy,9,66
+2023,Qtr 1,February,12,V0503,Female,37,Native American,PM,Weekend,Non-Patient,General Practice,1,33
+2023,Qtr 1,February,13,V0213,Male,50,Native American,AM,Weekday,Patient,General Practice,5,72
+2023,Qtr 1,February,13,V0350,Male,21,Asian,PM,Weekday,Patient,Neurology,7,17
+2023,Qtr 1,February,14,V0188,Female,13,Native American,PM,Weekday,Patient,Physiotherapy,4,63
+2023,Qtr 1,February,15,V0033,Female,39,Asian,AM,Weekday,Patient,Physiotherapy,10,64
+2023,Qtr 1,February,15,V0435,Female,64,Native American,AM,Weekday,Patient,Orthopedics,1,69
+2023,Qtr 1,February,16,V0153,Female,21,Pacific Islander,AM,Weekday,Non-Patient,Cardiology,2,18
+2023,Qtr 1,February,20,V0260,Male,40,Asian,PM,Weekday,Patient,General Practice,6,56
+2023,Qtr 1,February,21,V0237,Female,67,Asian,AM,Weekday,Non-Patient,General Practice,1,16
+2023,Qtr 1,February,22,V0460,Female,85,Native American,AM,Weekday,Non-Patient,General Practice,1,65
+2023,Qtr 1,February,22,V0482,Female,50,Pacific Islander,PM,Weekday,Non-Patient,Orthopedics,10,90
+2023,Qtr 1,February,23,V0219,Male,11,White,AM,Weekday,Patient,Orthopedics,3,74
+2023,Qtr 1,February,23,V0309,Female,65,Native American,PM,Weekday,Patient,Orthopedics,4,15
+2023,Qtr 1,February,23,V0310,Male,47,Asian,AM,Weekday,Non-Patient,General Practice,1,57
+2023,Qtr 1,February,24,V0354,Female,59,Asian,AM,Weekday,Non-Patient,General Practice,2,45
+2023,Qtr 1,February,25,V0281,Female,59,African American,AM,Weekend,Patient,Orthopedics,6,22
+2023,Qtr 1,February,26,V0027,Female,31,Asian,AM,Weekend,Non-Patient,Physiotherapy,8,36
+2023,Qtr 1,February,26,V0074,Male,33,African American,AM,Weekend,Non-Patient,Physiotherapy,9,64
+2023,Qtr 1,February,26,V0082,Female,54,Asian,PM,Weekend,Patient,Neurology,2,65
+2023,Qtr 1,February,26,V0204,Male,49,Asian,PM,Weekend,Non-Patient,Physiotherapy,5,54
+2023,Qtr 1,February,26,V0340,Male,63,White,PM,Weekend,Non-Patient,General Practice,6,16
+2023,Qtr 1,February,27,V0042,Female,72,Native American,PM,Weekday,Patient,Orthopedics,5,33
+2023,Qtr 1,February,27,V0328,Male,37,Native American,AM,Weekday,Non-Patient,Orthopedics,7,28
+2023,Qtr 1,February,27,V0467,Female,66,Asian,AM,Weekday,Patient,Physiotherapy,10,67
+2023,Qtr 1,February,28,V0103,Male,64,Native American,PM,Weekday,Non-Patient,Neurology,3,54
+2023,Qtr 1,March,1,V0137,Female,66,Pacific Islander,AM,Weekday,Non-Patient,Cardiology,4,57
+2023,Qtr 1,March,1,V0163,Male,72,Native American,AM,Weekday,Patient,Neurology,5,82
+2023,Qtr 1,March,1,V0173,Male,43,White,PM,Weekday,Patient,Neurology,2,70
+2023,Qtr 1,March,1,V0202,Male,69,Pacific Islander,AM,Weekday,Non-Patient,Physiotherapy,2,86
+2023,Qtr 1,March,2,V0224,Female,85,White,AM,Weekday,Non-Patient,Physiotherapy,9,84
+2023,Qtr 1,March,2,V0227,Male,68,Pacific Islander,PM,Weekday,Non-Patient,Cardiology,1,41
+2023,Qtr 1,March,2,V0502,Male,37,African American,AM,Weekday,Non-Patient,General Practice,3,66
+2023,Qtr 1,March,4,V0223,Female,24,Pacific Islander,AM,Weekend,Non-Patient,General Practice,9,88
+2023,Qtr 1,March,5,V0492,Male,32,Pacific Islander,PM,Weekend,Patient,Neurology,9,46
+2023,Qtr 1,March,7,V0114,Female,19,White,AM,Weekday,Non-Patient,Orthopedics,6,42
+2023,Qtr 1,March,8,V0300,Female,57,Native American,PM,Weekday,Patient,Neurology,6,22
+2023,Qtr 1,March,9,V0176,Female,29,Asian,AM,Weekday,Non-Patient,General Practice,2,72
+2023,Qtr 1,March,9,V0247,Female,17,Native American,AM,Weekday,Non-Patient,General Practice,8,37
+2023,Qtr 1,March,10,V0274,Female,74,Pacific Islander,AM,Weekday,Non-Patient,Neurology,2,63
+2023,Qtr 1,March,10,V0483,Female,55,Pacific Islander,PM,Weekday,Non-Patient,Physiotherapy,6,90
+2023,Qtr 1,March,11,V0116,Male,41,Asian,AM,Weekend,Patient,Cardiology,9,65
+2023,Qtr 1,March,12,V0024,Female,84,Pacific Islander,PM,Weekend,Patient,Orthopedics,5,49
+2023,Qtr 1,March,12,V0380,Female,53,White,PM,Weekend,Non-Patient,General Practice,8,52
+2023,Qtr 1,March,12,V0462,Male,37,Pacific Islander,PM,Weekend,Non-Patient,Physiotherapy,2,42
+2023,Qtr 1,March,14,V0010,Female,10,Native American,PM,Weekday,Non-Patient,Physiotherapy,3,27
+2023,Qtr 1,March,16,V0345,Male,30,Asian,PM,Weekday,Non-Patient,General Practice,4,47
+2023,Qtr 1,March,17,V0076,Female,79,African American,PM,Weekday,Patient,Orthopedics,5,75
+2023,Qtr 1,March,18,V0348,Male,55,Asian,AM,Weekend,Patient,General Practice,6,38
+2023,Qtr 1,March,21,V0477,Male,67,White,PM,Weekday,Non-Patient,Neurology,10,48
+2023,Qtr 1,March,22,V0068,Female,84,Native American,PM,Weekday,Non-Patient,Neurology,8,66
+2023,Qtr 1,March,22,V0366,Male,10,Native American,PM,Weekday,Patient,Cardiology,1,10
+2023,Qtr 1,March,23,V0385,Female,84,Native American,AM,Weekday,Non-Patient,Orthopedics,8,11
+2023,Qtr 1,March,24,V0014,Female,21,African American,PM,Weekday,Patient,Physiotherapy,4,82
+2023,Qtr 1,March,24,V0386,Female,23,Pacific Islander,PM,Weekday,Patient,Neurology,10,20
+2023,Qtr 1,March,24,V0418,Female,70,Pacific Islander,AM,Weekday,Non-Patient,Cardiology,4,70
+2023,Qtr 1,March,25,V0239,Male,45,African American,PM,Weekend,Patient,Neurology,3,89
+2023,Qtr 1,March,26,V0263,Male,73,Asian,PM,Weekend,Patient,Physiotherapy,6,24
+2023,Qtr 1,March,27,V0094,Male,72,White,AM,Weekday,Non-Patient,Orthopedics,4,17
+2023,Qtr 1,March,27,V0299,Male,3,Pacific Islander,AM,Weekday,Non-Patient,Physiotherapy,4,76
+2023,Qtr 1,March,27,V0447,Female,25,Asian,AM,Weekday,Non-Patient,Orthopedics,8,74
+2023,Qtr 1,March,28,V0265,Male,42,Asian,AM,Weekday,Patient,Neurology,4,74
+2023,Qtr 1,March,29,V0396,Female,72,Pacific Islander,AM,Weekday,Patient,Physiotherapy,6,74
+2023,Qtr 1,March,30,V0394,Male,61,Native American,PM,Weekday,Non-Patient,Physiotherapy,10,59
+2023,Qtr 1,March,31,V0184,Female,53,Native American,AM,Weekday,Non-Patient,Cardiology,3,65
+2023,Qtr 1,March,31,V0388,Female,54,African American,AM,Weekday,Non-Patient,Orthopedics,8,81
+2023,Qtr 2,April,1,V0209,Female,5,Pacific Islander,AM,Weekend,Non-Patient,General Practice,2,53
+2023,Qtr 2,April,2,V0064,Female,36,Pacific Islander,PM,Weekend,Patient,Neurology,7,90
+2023,Qtr 2,April,3,V0242,Female,66,African American,PM,Weekday,Non-Patient,Cardiology,9,57
+2023,Qtr 2,April,4,V0197,Male,25,Asian,PM,Weekday,Patient,Orthopedics,8,51
+2023,Qtr 2,April,4,V0393,Male,49,Native American,AM,Weekday,Non-Patient,General Practice,8,40
+2023,Qtr 2,April,6,V0203,Female,55,Pacific Islander,PM,Weekday,Non-Patient,Cardiology,7,25
+2023,Qtr 2,April,6,V0379,Female,72,Asian,PM,Weekday,Patient,Neurology,9,58
+2023,Qtr 2,April,6,V0484,Male,69,African American,PM,Weekday,Patient,Neurology,10,10
+2023,Qtr 2,April,8,V0246,Female,54,African American,PM,Weekend,Non-Patient,General Practice,5,63
+2023,Qtr 2,April,8,V0316,Female,24,White,PM,Weekend,Patient,Orthopedics,8,24
+2023,Qtr 2,April,10,V0499,Female,35,African American,AM,Weekday,Non-Patient,Cardiology,10,58
+2023,Qtr 2,April,11,V0376,Male,22,Asian,PM,Weekday,Non-Patient,Orthopedics,9,90
+2023,Qtr 2,April,12,V0181,Male,51,African American,AM,Weekday,Non-Patient,Orthopedics,3,84
+2023,Qtr 2,April,12,V0450,Male,20,Native American,AM,Weekday,Non-Patient,Physiotherapy,6,17
+2023,Qtr 2,April,13,V0332,Female,44,Asian,PM,Weekday,Non-Patient,Neurology,1,56
+2023,Qtr 2,April,14,V0081,Female,41,Native American,PM,Weekday,Patient,Orthopedics,2,45
+2023,Qtr 2,April,15,V0480,Male,33,African American,AM,Weekend,Patient,Orthopedics,5,17
+2023,Qtr 2,April,16,V0034,Female,45,African American,PM,Weekend,Non-Patient,General Practice,4,19
+2023,Qtr 2,April,17,V0303,Male,7,Asian,AM,Weekday,Patient,Neurology,8,77
+2023,Qtr 2,April,17,V0335,Female,7,Native American,PM,Weekday,Non-Patient,General Practice,10,64
+2023,Qtr 2,April,17,V0474,Female,76,African American,PM,Weekday,Non-Patient,Orthopedics,4,36
+2023,Qtr 2,April,19,V0040,Female,47,White,AM,Weekday,Patient,General Practice,7,68
+2023,Qtr 2,April,21,V0104,Male,68,Asian,AM,Weekday,Non-Patient,Physiotherapy,6,47
+2023,Qtr 2,April,21,V0132,Male,35,Native American,AM,Weekday,Non-Patient,General Practice,1,20
+2023,Qtr 2,April,21,V0321,Male,22,White,PM,Weekday,Patient,Neurology,2,13
+2023,Qtr 2,April,21,V0359,Female,58,Native American,PM,Weekday,Patient,General Practice,5,21
+2023,Qtr 2,April,22,V0146,Male,27,Pacific Islander,PM,Weekend,Non-Patient,Orthopedics,9,53
+2023,Qtr 2,April,22,V0425,Male,68,African American,PM,Weekend,Non-Patient,Physiotherapy,8,63
+2023,Qtr 2,April,23,V0127,Male,56,White,AM,Weekend,Patient,Cardiology,7,33
+2023,Qtr 2,April,23,V0277,Male,75,Pacific Islander,AM,Weekend,Patient,General Practice,4,15
+2023,Qtr 2,April,24,V0448,Female,62,African American,PM,Weekday,Patient,Neurology,2,59
+2023,Qtr 2,April,25,V0144,Male,10,White,PM,Weekday,Non-Patient,Orthopedics,8,13
+2023,Qtr 2,April,25,V0487,Male,84,Native American,AM,Weekday,Patient,Physiotherapy,7,20
+2023,Qtr 2,April,27,V0323,Female,56,White,PM,Weekday,Non-Patient,General Practice,1,48
+2023,Qtr 2,April,28,V0374,Female,2,African American,AM,Weekday,Non-Patient,Neurology,3,59
+2023,Qtr 2,April,29,V0344,Male,41,White,AM,Weekend,Patient,Neurology,9,49
+2023,Qtr 2,May,2,V0178,Female,18,African American,AM,Weekday,Patient,Physiotherapy,9,29
+2023,Qtr 2,May,3,V0407,Male,12,African American,PM,Weekday,Patient,Neurology,5,36
+2023,Qtr 2,May,3,V0473,Female,38,Native American,PM,Weekday,Non-Patient,Cardiology,5,48
+2023,Qtr 2,May,4,V0454,Male,34,Native American,PM,Weekday,Non-Patient,Orthopedics,5,86
+2023,Qtr 2,May,7,V0314,Male,81,Pacific Islander,PM,Weekend,Patient,Cardiology,10,34
+2023,Qtr 2,May,7,V0472,Male,26,Asian,AM,Weekend,Non-Patient,Neurology,10,67
+2023,Qtr 2,May,10,V0106,Male,79,African American,PM,Weekday,Non-Patient,Physiotherapy,4,55
+2023,Qtr 2,May,11,V0025,Female,67,Asian,AM,Weekday,Patient,Cardiology,8,81
+2023,Qtr 2,May,11,V0047,Female,23,Native American,PM,Weekday,Patient,Cardiology,10,27
+2023,Qtr 2,May,11,V0124,Male,42,Pacific Islander,AM,Weekday,Non-Patient,Orthopedics,1,89
+2023,Qtr 2,May,11,V0162,Female,48,White,PM,Weekday,Patient,Neurology,6,71
+2023,Qtr 2,May,11,V0302,Female,42,Native American,PM,Weekday,Non-Patient,Orthopedics,7,47
+2023,Qtr 2,May,12,V0004,Female,41,Native American,PM,Weekday,Non-Patient,Neurology,3,68
+2023,Qtr 2,May,12,V0049,Female,49,Asian,AM,Weekday,Patient,General Practice,1,85
+2023,Qtr 2,May,12,V0158,Female,62,Native American,AM,Weekday,Non-Patient,Cardiology,9,82
+2023,Qtr 2,May,14,V0205,Female,3,Asian,PM,Weekend,Patient,Neurology,6,27
+2023,Qtr 2,May,15,V0043,Male,29,Asian,PM,Weekday,Non-Patient,Cardiology,1,15
+2023,Qtr 2,May,15,V0307,Male,19,White,AM,Weekday,Patient,Neurology,2,16
+2023,Qtr 2,May,15,V0468,Female,45,Asian,PM,Weekday,Patient,Orthopedics,5,29
+2023,Qtr 2,May,17,V0347,Female,84,Asian,AM,Weekday,Non-Patient,General Practice,9,22
+2023,Qtr 2,May,17,V0368,Female,54,Asian,PM,Weekday,Patient,Physiotherapy,1,71
+2023,Qtr 2,May,17,V0494,Female,23,Pacific Islander,AM,Weekday,Non-Patient,General Practice,9,77
+2023,Qtr 2,May,18,V0292,Male,76,White,AM,Weekday,Non-Patient,Physiotherapy,9,31
+2023,Qtr 2,May,19,V0097,Male,28,Pacific Islander,AM,Weekday,Patient,Cardiology,9,42
+2023,Qtr 2,May,19,V0141,Male,11,Pacific Islander,PM,Weekday,Non-Patient,Orthopedics,8,30
+2023,Qtr 2,May,19,V0346,Female,24,Pacific Islander,AM,Weekday,Non-Patient,Cardiology,2,51
+2023,Qtr 2,May,21,V0058,Male,43,White,AM,Weekend,Patient,Physiotherapy,4,42
+2023,Qtr 2,May,22,V0177,Male,71,Pacific Islander,PM,Weekday,Non-Patient,Orthopedics,4,74
+2023,Qtr 2,May,22,V0228,Male,8,White,AM,Weekday,Patient,Orthopedics,8,19
+2023,Qtr 2,May,24,V0196,Male,71,Native American,PM,Weekday,Patient,General Practice,6,16
+2023,Qtr 2,May,24,V0428,Male,62,Asian,PM,Weekday,Non-Patient,Cardiology,10,72
+2023,Qtr 2,May,27,V0001,Male,31,White,PM,Weekend,Non-Patient,Cardiology,6,34
+2023,Qtr 2,May,27,V0050,Male,83,Asian,PM,Weekend,Non-Patient,Cardiology,6,42
+2023,Qtr 2,May,27,V0187,Female,24,White,AM,Weekend,Non-Patient,Physiotherapy,6,55
+2023,Qtr 2,May,27,V0268,Male,74,Asian,PM,Weekend,Patient,Orthopedics,1,48
+2023,Qtr 2,May,29,V0308,Female,39,Asian,PM,Weekday,Non-Patient,General Practice,7,27
+2023,Qtr 2,May,30,V0089,Male,33,African American,AM,Weekday,Non-Patient,General Practice,4,72
+2023,Qtr 2,May,30,V0400,Female,63,Native American,PM,Weekday,Non-Patient,Physiotherapy,4,16
+2023,Qtr 2,May,31,V0017,Female,79,Pacific Islander,AM,Weekday,Patient,Orthopedics,7,78
+2023,Qtr 2,May,31,V0336,Female,77,Asian,AM,Weekday,Non-Patient,Neurology,2,61
+2023,Qtr 2,June,1,V0282,Female,39,Native American,AM,Weekday,Patient,General Practice,9,82
+2023,Qtr 2,June,1,V0493,Female,13,Native American,PM,Weekday,Non-Patient,Orthopedics,3,48
+2023,Qtr 2,June,2,V0111,Female,26,Asian,PM,Weekday,Patient,Cardiology,2,16
+2023,Qtr 2,June,2,V0207,Female,66,Native American,PM,Weekday,Non-Patient,Physiotherapy,4,88
+2023,Qtr 2,June,3,V0327,Male,4,Asian,AM,Weekend,Patient,General Practice,10,29
+2023,Qtr 2,June,3,V0365,Male,56,Asian,AM,Weekend,Non-Patient,Physiotherapy,6,13
+2023,Qtr 2,June,4,V0006,Male,57,Asian,AM,Weekend,Patient,Orthopedics,6,78
+2023,Qtr 2,June,5,V0419,Female,3,Asian,PM,Weekday,Non-Patient,Cardiology,1,49
+2023,Qtr 2,June,7,V0045,Female,24,White,PM,Weekday,Non-Patient,Orthopedics,9,55
+2023,Qtr 2,June,7,V0273,Male,68,Native American,PM,Weekday,Patient,Physiotherapy,10,24
+2023,Qtr 2,June,8,V0218,Male,37,White,AM,Weekday,Non-Patient,Neurology,8,16
+2023,Qtr 2,June,8,V0464,Male,20,White,PM,Weekday,Patient,Physiotherapy,5,40
+2023,Qtr 2,June,8,V0497,Female,78,White,AM,Weekday,Patient,Cardiology,7,55
+2023,Qtr 2,June,9,V0330,Male,69,Native American,PM,Weekday,Non-Patient,Cardiology,6,85
+2023,Qtr 2,June,10,V0414,Male,14,African American,AM,Weekend,Non-Patient,Cardiology,5,82
+2023,Qtr 2,June,12,V0145,Female,19,Native American,PM,Weekday,Patient,Physiotherapy,8,82
+2023,Qtr 2,June,13,V0108,Male,53,Asian,PM,Weekday,Non-Patient,Physiotherapy,4,56
+2023,Qtr 2,June,13,V0234,Male,39,Native American,PM,Weekday,Patient,General Practice,10,32
+2023,Qtr 2,June,13,V0423,Male,27,Pacific Islander,PM,Weekday,Non-Patient,Cardiology,10,37
+2023,Qtr 2,June,14,V0259,Male,4,Native American,AM,Weekday,Non-Patient,General Practice,10,14
+2023,Qtr 2,June,14,V0324,Male,2,White,PM,Weekday,Patient,Physiotherapy,10,27
+2023,Qtr 2,June,15,V0129,Male,85,White,AM,Weekday,Patient,Cardiology,8,86
+2023,Qtr 2,June,16,V0317,Male,49,African American,PM,Weekday,Non-Patient,Orthopedics,5,52
+2023,Qtr 2,June,17,V0479,Female,62,White,AM,Weekend,Non-Patient,Physiotherapy,1,57
+2023,Qtr 2,June,19,V0293,Male,76,Pacific Islander,PM,Weekday,Non-Patient,General Practice,7,36
+2023,Qtr 2,June,21,V0155,Female,78,African American,PM,Weekday,Patient,Cardiology,7,84
+2023,Qtr 2,June,21,V0411,Male,40,Asian,AM,Weekday,Patient,Physiotherapy,2,35
+2023,Qtr 2,June,22,V0382,Female,51,Pacific Islander,PM,Weekday,Non-Patient,Cardiology,2,42
+2023,Qtr 2,June,23,V0151,Female,49,White,PM,Weekday,Patient,Cardiology,5,72
+2023,Qtr 2,June,25,V0364,Female,54,White,PM,Weekend,Patient,General Practice,9,16
+2023,Qtr 2,June,25,V0427,Female,14,Pacific Islander,AM,Weekend,Non-Patient,General Practice,10,40
+2023,Qtr 2,June,25,V0470,Female,84,Pacific Islander,PM,Weekend,Non-Patient,Neurology,7,19
+2023,Qtr 2,June,27,V0436,Female,67,White,AM,Weekday,Patient,Orthopedics,5,73
+2023,Qtr 2,June,28,V0008,Male,78,Pacific Islander,AM,Weekday,Patient,Neurology,1,57
+2023,Qtr 2,June,29,V0011,Male,46,Asian,PM,Weekday,Non-Patient,General Practice,6,71
+2023,Qtr 2,June,29,V0012,Male,34,African American,AM,Weekday,Patient,Physiotherapy,8,52
+2023,Qtr 2,June,29,V0352,Female,77,Pacific Islander,PM,Weekday,Patient,Orthopedics,2,87
+2023,Qtr 2,June,30,V0172,Female,83,Asian,PM,Weekday,Patient,Orthopedics,1,24
+2023,Qtr 3,July,1,V0208,Female,22,Pacific Islander,AM,Weekend,Patient,Neurology,3,83
+2023,Qtr 3,July,1,V0231,Male,27,Native American,PM,Weekend,Patient,Orthopedics,1,69
+2023,Qtr 3,July,3,V0211,Female,62,Asian,PM,Weekday,Non-Patient,Orthopedics,4,86
+2023,Qtr 3,July,4,V0174,Female,23,Asian,PM,Weekday,Patient,Neurology,2,19
+2023,Qtr 3,July,4,V0287,Female,77,Asian,PM,Weekday,Non-Patient,Neurology,6,24
+2023,Qtr 3,July,5,V0444,Female,16,White,AM,Weekday,Non-Patient,General Practice,4,18
+2023,Qtr 3,July,6,V0142,Male,75,Pacific Islander,AM,Weekday,Non-Patient,Cardiology,7,46
+2023,Qtr 3,July,6,V0296,Male,35,African American,PM,Weekday,Patient,Neurology,5,13
+2023,Qtr 3,July,7,V0039,Male,33,Asian,PM,Weekday,Non-Patient,Physiotherapy,4,34
+2023,Qtr 3,July,7,V0279,Male,1,African American,PM,Weekday,Non-Patient,Physiotherapy,10,80
+2023,Qtr 3,July,8,V0251,Male,43,African American,PM,Weekend,Patient,General Practice,10,53
+2023,Qtr 3,July,9,V0457,Female,24,Native American,AM,Weekend,Patient,Physiotherapy,3,40
+2023,Qtr 3,July,10,V0199,Male,3,African American,PM,Weekday,Non-Patient,General Practice,1,37
+2023,Qtr 3,July,11,V0298,Male,85,Native American,PM,Weekday,Non-Patient,Physiotherapy,1,86
+2023,Qtr 3,July,13,V0119,Female,58,Asian,AM,Weekday,Non-Patient,Orthopedics,8,27
+2023,Qtr 3,July,13,V0248,Female,17,White,PM,Weekday,Patient,Physiotherapy,5,15
+2023,Qtr 3,July,13,V0261,Male,85,African American,PM,Weekday,Non-Patient,Physiotherapy,2,50
+2023,Qtr 3,July,15,V0318,Female,58,Native American,AM,Weekend,Non-Patient,General Practice,4,18
+2023,Qtr 3,July,17,V0035,Male,49,Native American,PM,Weekday,Non-Patient,Orthopedics,3,37
+2023,Qtr 3,July,17,V0157,Male,49,Asian,PM,Weekday,Non-Patient,Orthopedics,9,82
+2023,Qtr 3,July,17,V0222,Female,5,Asian,AM,Weekday,Non-Patient,Orthopedics,1,83
+2023,Qtr 3,July,18,V0165,Female,72,African American,PM,Weekday,Non-Patient,Cardiology,1,54
+2023,Qtr 3,July,18,V0252,Male,47,White,AM,Weekday,Non-Patient,General Practice,2,17
+2023,Qtr 3,July,19,V0440,Female,4,Asian,PM,Weekday,Non-Patient,General Practice,7,63
+2023,Qtr 3,July,20,V0170,Male,33,Asian,AM,Weekday,Non-Patient,Orthopedics,2,83
+2023,Qtr 3,July,20,V0369,Male,75,Asian,PM,Weekday,Patient,General Practice,5,51
+2023,Qtr 3,July,20,V0491,Female,77,Asian,PM,Weekday,Non-Patient,Physiotherapy,7,19
+2023,Qtr 3,July,21,V0078,Male,3,White,AM,Weekday,Non-Patient,General Practice,6,79
+2023,Qtr 3,July,21,V0249,Male,35,White,PM,Weekday,Patient,Orthopedics,4,34
+2023,Qtr 3,July,22,V0283,Female,50,African American,AM,Weekend,Patient,General Practice,10,21
+2023,Qtr 3,July,23,V0250,Male,38,Pacific Islander,PM,Weekend,Patient,Physiotherapy,6,79
+2023,Qtr 3,July,23,V0417,Female,47,Pacific Islander,AM,Weekend,Non-Patient,Cardiology,5,36
+2023,Qtr 3,July,24,V0375,Male,23,Pacific Islander,PM,Weekday,Patient,Orthopedics,1,10
+2023,Qtr 3,July,25,V0100,Female,77,Asian,PM,Weekday,Patient,General Practice,9,36
+2023,Qtr 3,July,25,V0272,Male,13,White,PM,Weekday,Non-Patient,Cardiology,10,29
+2023,Qtr 3,July,25,V0387,Female,44,Pacific Islander,PM,Weekday,Patient,Physiotherapy,6,59
+2023,Qtr 3,July,26,V0214,Female,49,Native American,PM,Weekday,Non-Patient,Orthopedics,9,38
+2023,Qtr 3,July,26,V0410,Female,75,African American,AM,Weekday,Non-Patient,Cardiology,10,36
+2023,Qtr 3,July,27,V0019,Male,37,African American,PM,Weekday,Non-Patient,Orthopedics,1,80
+2023,Qtr 3,July,27,V0288,Female,44,Asian,AM,Weekday,Non-Patient,Cardiology,4,23
+2023,Qtr 3,July,27,V0391,Female,55,White,AM,Weekday,Non-Patient,General Practice,7,19
+2023,Qtr 3,July,28,V0305,Female,37,African American,AM,Weekday,Non-Patient,Physiotherapy,8,86
+2023,Qtr 3,July,29,V0088,Male,57,White,AM,Weekend,Non-Patient,Neurology,3,37
+2023,Qtr 3,July,29,V0118,Male,47,Pacific Islander,AM,Weekend,Patient,Cardiology,3,38
+2023,Qtr 3,July,29,V0233,Female,55,African American,AM,Weekend,Non-Patient,Orthopedics,2,19
+2023,Qtr 3,July,30,V0123,Male,40,African American,AM,Weekend,Non-Patient,Physiotherapy,9,61
+2023,Qtr 3,July,30,V0459,Male,8,White,AM,Weekend,Non-Patient,Cardiology,5,18
+2023,Qtr 3,July,31,V0194,Female,34,Asian,AM,Weekday,Non-Patient,Physiotherapy,1,78
+2023,Qtr 3,July,31,V0334,Female,48,African American,PM,Weekday,Non-Patient,Orthopedics,4,32
+2023,Qtr 3,August,2,V0171,Female,28,Pacific Islander,AM,Weekday,Patient,Neurology,9,88
+2023,Qtr 3,August,3,V0098,Female,19,Pacific Islander,AM,Weekday,Non-Patient,Orthopedics,4,66
+2023,Qtr 3,August,4,V0489,Female,71,Native American,AM,Weekday,Non-Patient,Cardiology,7,56
+2023,Qtr 3,August,5,V0229,Male,55,Pacific Islander,AM,Weekend,Non-Patient,Cardiology,10,43
+2023,Qtr 3,August,5,V0456,Female,56,Native American,PM,Weekend,Patient,Orthopedics,2,41
+2023,Qtr 3,August,6,V0087,Male,47,African American,AM,Weekend,Patient,Cardiology,3,35
+2023,Qtr 3,August,6,V0191,Male,32,Asian,PM,Weekend,Non-Patient,Physiotherapy,6,83
+2023,Qtr 3,August,6,V0397,Male,27,White,AM,Weekend,Non-Patient,Orthopedics,9,52
+2023,Qtr 3,August,7,V0441,Male,19,White,AM,Weekday,Non-Patient,Cardiology,5,68
+2023,Qtr 3,August,8,V0080,Female,73,African American,AM,Weekday,Non-Patient,General Practice,9,72
+2023,Qtr 3,August,9,V0149,Male,65,Pacific Islander,PM,Weekday,Patient,Orthopedics,7,12
+2023,Qtr 3,August,10,V0186,Female,1,White,PM,Weekday,Patient,Physiotherapy,8,69
+2023,Qtr 3,August,12,V0055,Female,53,Pacific Islander,AM,Weekend,Patient,Physiotherapy,8,20
+2023,Qtr 3,August,12,V0420,Male,33,African American,PM,Weekend,Non-Patient,Physiotherapy,1,73
+2023,Qtr 3,August,14,V0056,Male,52,African American,PM,Weekday,Non-Patient,Neurology,7,79
+2023,Qtr 3,August,15,V0315,Male,44,White,AM,Weekday,Patient,Neurology,2,51
+2023,Qtr 3,August,15,V0326,Male,42,Native American,PM,Weekday,Non-Patient,Orthopedics,3,54
+2023,Qtr 3,August,16,V0175,Male,3,Pacific Islander,AM,Weekday,Non-Patient,Physiotherapy,6,73
+2023,Qtr 3,August,16,V0415,Female,1,Pacific Islander,AM,Weekday,Patient,Cardiology,10,27
+2023,Qtr 3,August,18,V0015,Female,19,Asian,AM,Weekday,Patient,Orthopedics,2,34
+2023,Qtr 3,August,18,V0159,Female,68,African American,PM,Weekday,Patient,Orthopedics,1,46
+2023,Qtr 3,August,20,V0009,Male,60,African American,PM,Weekend,Non-Patient,General Practice,8,29
+2023,Qtr 3,August,20,V0185,Female,23,White,AM,Weekend,Patient,Physiotherapy,10,17
+2023,Qtr 3,August,20,V0353,Female,48,Asian,AM,Weekend,Non-Patient,Cardiology,7,27
+2023,Qtr 3,August,20,V0466,Male,31,African American,AM,Weekend,Non-Patient,General Practice,1,25
+2023,Qtr 3,August,21,V0083,Male,77,Pacific Islander,AM,Weekday,Patient,Orthopedics,8,12
+2023,Qtr 3,August,21,V0338,Male,65,Pacific Islander,AM,Weekday,Non-Patient,General Practice,9,34
+2023,Qtr 3,August,22,V0216,Male,10,African American,PM,Weekday,Patient,Physiotherapy,9,51
+2023,Qtr 3,August,23,V0169,Male,43,Pacific Islander,AM,Weekday,Non-Patient,Neurology,2,64
+2023,Qtr 3,August,24,V0007,Male,53,Pacific Islander,PM,Weekday,Patient,General Practice,2,51
+2023,Qtr 3,August,25,V0065,Male,10,Pacific Islander,PM,Weekday,Non-Patient,Physiotherapy,1,27
+2023,Qtr 3,August,25,V0105,Female,77,African American,PM,Weekday,Patient,Physiotherapy,3,83
+2023,Qtr 3,August,25,V0275,Male,28,Native American,PM,Weekday,Non-Patient,Orthopedics,4,42
+2023,Qtr 3,August,25,V0488,Male,49,African American,PM,Weekday,Patient,Orthopedics,2,31
+2023,Qtr 3,August,26,V0072,Male,14,Native American,AM,Weekend,Patient,Orthopedics,7,83
+2023,Qtr 3,August,27,V0258,Male,75,Native American,AM,Weekend,Non-Patient,Cardiology,3,15
+2023,Qtr 3,August,28,V0225,Male,56,Pacific Islander,PM,Weekday,Patient,General Practice,8,44
+2023,Qtr 3,August,29,V0037,Male,25,African American,AM,Weekday,Non-Patient,General Practice,1,89
+2023,Qtr 3,August,29,V0267,Male,29,White,PM,Weekday,Non-Patient,General Practice,5,69
+2023,Qtr 3,August,30,V0143,Female,73,Native American,PM,Weekday,Non-Patient,Orthopedics,5,89
+2023,Qtr 3,August,31,V0232,Female,48,Pacific Islander,PM,Weekday,Patient,Neurology,6,83
+2023,Qtr 3,August,31,V0331,Female,24,African American,AM,Weekday,Non-Patient,Orthopedics,3,39
+2023,Qtr 3,August,31,V0333,Female,20,African American,AM,Weekday,Patient,Orthopedics,10,31
+2023,Qtr 3,September,1,V0384,Female,4,Pacific Islander,AM,Weekday,Patient,General Practice,7,17
+2023,Qtr 3,September,1,V0395,Female,14,Pacific Islander,PM,Weekday,Patient,Neurology,9,83
+2023,Qtr 3,September,2,V0126,Male,38,African American,PM,Weekend,Patient,Physiotherapy,10,71
+2023,Qtr 3,September,3,V0003,Female,6,White,AM,Weekend,Patient,Physiotherapy,9,55
+2023,Qtr 3,September,3,V0266,Female,44,White,AM,Weekend,Non-Patient,Orthopedics,8,21
+2023,Qtr 3,September,4,V0046,Male,85,Pacific Islander,PM,Weekday,Patient,Orthopedics,1,22
+2023,Qtr 3,September,4,V0091,Female,7,Asian,AM,Weekday,Non-Patient,Neurology,9,84
+2023,Qtr 3,September,4,V0110,Female,50,Native American,AM,Weekday,Non-Patient,General Practice,8,32
+2023,Qtr 3,September,4,V0117,Male,40,Native American,PM,Weekday,Non-Patient,Orthopedics,8,10
+2023,Qtr 3,September,4,V0243,Female,47,White,AM,Weekday,Non-Patient,Orthopedics,8,85
+2023,Qtr 3,September,4,V0367,Female,45,Pacific Islander,PM,Weekday,Non-Patient,General Practice,9,42
+2023,Qtr 3,September,5,V0192,Male,2,Native American,PM,Weekday,Non-Patient,Orthopedics,10,47
+2023,Qtr 3,September,7,V0190,Male,35,White,PM,Weekday,Non-Patient,Orthopedics,10,58
+2023,Qtr 3,September,7,V0200,Female,37,African American,PM,Weekday,Non-Patient,General Practice,4,76
+2023,Qtr 3,September,7,V0291,Female,75,Native American,AM,Weekday,Non-Patient,Neurology,1,61
+2023,Qtr 3,September,7,V0432,Female,78,White,PM,Weekday,Patient,Neurology,5,12
+2023,Qtr 3,September,8,V0052,Male,3,African American,AM,Weekday,Patient,Cardiology,7,69
+2023,Qtr 3,September,9,V0486,Female,83,Native American,PM,Weekend,Non-Patient,Neurology,2,10
+2023,Qtr 3,September,10,V0029,Male,22,Asian,AM,Weekend,Non-Patient,Neurology,9,56
+2023,Qtr 3,September,10,V0498,Male,32,Pacific Islander,PM,Weekend,Non-Patient,Neurology,6,25
+2023,Qtr 3,September,11,V0236,Male,36,African American,AM,Weekday,Non-Patient,Cardiology,3,29
+2023,Qtr 3,September,12,V0032,Female,63,Native American,PM,Weekday,Non-Patient,Physiotherapy,10,25
+2023,Qtr 3,September,12,V0090,Male,46,African American,AM,Weekday,Patient,Orthopedics,1,65
+2023,Qtr 3,September,15,V0002,Female,37,Native American,PM,Weekday,Patient,Cardiology,3,16
+2023,Qtr 3,September,15,V0152,Female,47,Pacific Islander,PM,Weekday,Non-Patient,General Practice,3,62
+2023,Qtr 3,September,16,V0289,Male,76,Native American,PM,Weekend,Patient,Cardiology,1,54
+2023,Qtr 3,September,16,V0496,Female,25,Pacific Islander,AM,Weekend,Non-Patient,Cardiology,4,60
+2023,Qtr 3,September,19,V0166,Female,84,Pacific Islander,AM,Weekday,Patient,General Practice,5,43
+2023,Qtr 3,September,19,V0215,Male,26,Native American,PM,Weekday,Non-Patient,Cardiology,8,46
+2023,Qtr 3,September,20,V0240,Male,51,White,AM,Weekday,Non-Patient,Physiotherapy,4,73
+2023,Qtr 3,September,20,V0412,Female,32,Native American,AM,Weekday,Non-Patient,Neurology,7,46
+2023,Qtr 3,September,20,V0431,Female,15,Pacific Islander,AM,Weekday,Patient,Physiotherapy,2,10
+2023,Qtr 3,September,22,V0161,Female,36,Asian,AM,Weekday,Patient,Physiotherapy,5,47
+2023,Qtr 3,September,23,V0262,Female,34,African American,PM,Weekend,Patient,Orthopedics,1,44
+2023,Qtr 3,September,23,V0455,Male,56,Asian,AM,Weekend,Patient,Neurology,9,70
+2023,Qtr 3,September,24,V0349,Male,7,Asian,PM,Weekend,Patient,Physiotherapy,3,56
+2023,Qtr 3,September,24,V0358,Male,41,Native American,PM,Weekend,Non-Patient,Cardiology,6,25
+2023,Qtr 3,September,26,V0377,Female,3,Asian,PM,Weekday,Non-Patient,Orthopedics,5,49
+2023,Qtr 3,September,26,V0424,Male,41,Asian,PM,Weekday,Patient,General Practice,9,73
+2023,Qtr 3,September,27,V0048,Male,8,Pacific Islander,AM,Weekday,Patient,Cardiology,1,27
+2023,Qtr 3,September,28,V0131,Female,33,Asian,AM,Weekday,Patient,General Practice,1,14
+2023,Qtr 3,September,29,V0066,Male,39,Asian,PM,Weekday,Non-Patient,Orthopedics,10,44
+2023,Qtr 3,September,29,V0351,Female,53,Pacific Islander,PM,Weekday,Patient,General Practice,9,32
+2023,Qtr 3,September,30,V0255,Female,82,Pacific Islander,PM,Weekend,Patient,Physiotherapy,4,20
+2023,Qtr 4,October,1,V0217,Male,13,African American,AM,Weekend,Non-Patient,Neurology,5,84
+2023,Qtr 4,October,3,V0183,Male,55,African American,PM,Weekday,Patient,Physiotherapy,8,72
+2023,Qtr 4,October,5,V0028,Male,48,Asian,AM,Weekday,Non-Patient,Orthopedics,10,25
+2023,Qtr 4,October,6,V0301,Female,9,White,PM,Weekday,Non-Patient,Neurology,6,40
+2023,Qtr 4,October,8,V0113,Male,57,White,PM,Weekend,Non-Patient,Physiotherapy,7,37
+2023,Qtr 4,October,10,V0092,Female,5,Pacific Islander,AM,Weekday,Patient,Neurology,4,75
+2023,Qtr 4,October,10,V0195,Male,48,White,AM,Weekday,Patient,Physiotherapy,8,34
+2023,Qtr 4,October,10,V0276,Male,28,African American,PM,Weekday,Non-Patient,Neurology,4,68
+2023,Qtr 4,October,10,V0413,Male,69,White,AM,Weekday,Patient,Cardiology,6,53
+2023,Qtr 4,October,11,V0073,Female,68,Native American,PM,Weekday,Patient,Cardiology,3,50
+2023,Qtr 4,October,11,V0294,Female,39,Asian,AM,Weekday,Non-Patient,Cardiology,8,63
+2023,Qtr 4,October,12,V0075,Male,39,White,PM,Weekday,Non-Patient,Orthopedics,8,23
+2023,Qtr 4,October,12,V0156,Male,13,White,AM,Weekday,Patient,Physiotherapy,4,68
+2023,Qtr 4,October,12,V0264,Male,68,Asian,AM,Weekday,Non-Patient,Cardiology,3,46
+2023,Qtr 4,October,13,V0021,Male,28,Native American,PM,Weekday,Non-Patient,Cardiology,6,60
+2023,Qtr 4,October,13,V0063,Male,18,Native American,AM,Weekday,Non-Patient,Cardiology,5,25
+2023,Qtr 4,October,13,V0269,Female,63,White,PM,Weekday,Patient,Physiotherapy,10,66
+2023,Qtr 4,October,13,V0306,Female,71,Native American,AM,Weekday,Non-Patient,Physiotherapy,9,50
+2023,Qtr 4,October,13,V0416,Male,20,Asian,PM,Weekday,Non-Patient,Orthopedics,10,86
+2023,Qtr 4,October,14,V0179,Male,59,Native American,AM,Weekend,Non-Patient,General Practice,9,44
+2023,Qtr 4,October,15,V0193,Female,54,Asian,PM,Weekend,Non-Patient,Cardiology,10,25
+2023,Qtr 4,October,15,V0399,Male,23,White,PM,Weekend,Non-Patient,Orthopedics,10,36
+2023,Qtr 4,October,16,V0067,Male,68,African American,PM,Weekday,Non-Patient,Orthopedics,4,31
+2023,Qtr 4,October,16,V0122,Female,32,Pacific Islander,PM,Weekday,Non-Patient,Neurology,4,17
+2023,Qtr 4,October,16,V0257,Male,37,Asian,PM,Weekday,Patient,Neurology,6,18
+2023,Qtr 4,October,18,V0329,Female,44,Asian,AM,Weekday,Non-Patient,Orthopedics,9,36
+2023,Qtr 4,October,19,V0392,Male,33,White,PM,Weekday,Non-Patient,Neurology,9,39
+2023,Qtr 4,October,19,V0434,Female,83,White,AM,Weekday,Patient,Cardiology,5,71
+2023,Qtr 4,October,20,V0254,Male,22,African American,PM,Weekday,Patient,Neurology,6,37
+2023,Qtr 4,October,20,V0313,Female,68,Pacific Islander,PM,Weekday,Patient,Physiotherapy,4,19
+2023,Qtr 4,October,22,V0093,Male,42,Pacific Islander,AM,Weekend,Non-Patient,Orthopedics,4,38
+2023,Qtr 4,October,22,V0253,Male,18,Pacific Islander,AM,Weekend,Non-Patient,Orthopedics,1,22
+2023,Qtr 4,October,22,V0363,Female,58,Asian,PM,Weekend,Non-Patient,Cardiology,2,20
+2023,Qtr 4,October,22,V0443,Female,62,Native American,PM,Weekend,Non-Patient,Orthopedics,10,25
+2023,Qtr 4,October,23,V0405,Male,37,Native American,PM,Weekday,Non-Patient,Cardiology,6,16
+2023,Qtr 4,October,24,V0295,Male,49,Asian,PM,Weekday,Non-Patient,Neurology,1,81
+2023,Qtr 4,October,24,V0361,Female,22,Native American,PM,Weekday,Non-Patient,General Practice,7,60
+2023,Qtr 4,October,25,V0437,Female,23,Native American,PM,Weekday,Patient,Neurology,6,46
+2023,Qtr 4,October,26,V0041,Male,60,Asian,PM,Weekday,Patient,Orthopedics,5,10
+2023,Qtr 4,October,26,V0085,Male,31,Asian,AM,Weekday,Non-Patient,Neurology,6,29
+2023,Qtr 4,October,27,V0062,Female,14,Pacific Islander,AM,Weekday,Non-Patient,Neurology,4,46
+2023,Qtr 4,October,28,V0099,Male,20,Asian,AM,Weekend,Non-Patient,Cardiology,5,28
+2023,Qtr 4,October,30,V0013,Female,79,Asian,PM,Weekday,Non-Patient,General Practice,8,48
+2023,Qtr 4,October,30,V0230,Male,23,Pacific Islander,PM,Weekday,Patient,Orthopedics,6,83
+2023,Qtr 4,October,30,V0270,Male,6,Pacific Islander,PM,Weekday,Non-Patient,Neurology,9,34
+2023,Qtr 4,October,30,V0426,Male,22,Pacific Islander,AM,Weekday,Non-Patient,Neurology,4,68
+2023,Qtr 4,November,1,V0285,Male,25,Native American,PM,Weekday,Patient,Neurology,6,69
+2023,Qtr 4,November,1,V0373,Female,50,White,PM,Weekday,Non-Patient,Orthopedics,2,79
+2023,Qtr 4,November,3,V0101,Female,66,White,PM,Weekday,Non-Patient,General Practice,10,26
+2023,Qtr 4,November,3,V0139,Female,63,Native American,PM,Weekday,Non-Patient,General Practice,8,74
+2023,Qtr 4,November,4,V0465,Female,42,Pacific Islander,AM,Weekend,Patient,General Practice,4,77
+2023,Qtr 4,November,4,V0476,Female,27,White,PM,Weekend,Non-Patient,Orthopedics,7,10
+2023,Qtr 4,November,6,V0201,Female,17,Native American,PM,Weekday,Patient,General Practice,6,30
+2023,Qtr 4,November,7,V0241,Male,58,African American,AM,Weekday,Patient,General Practice,1,81
+2023,Qtr 4,November,7,V0389,Male,32,African American,PM,Weekday,Patient,General Practice,9,33
+2023,Qtr 4,November,8,V0490,Female,12,Asian,PM,Weekday,Non-Patient,Physiotherapy,5,70
+2023,Qtr 4,November,10,V0020,Male,12,Native American,PM,Weekday,Non-Patient,General Practice,4,40
+2023,Qtr 4,November,11,V0005,Female,85,Pacific Islander,AM,Weekend,Patient,Orthopedics,9,39
+2023,Qtr 4,November,11,V0164,Female,33,Native American,PM,Weekend,Non-Patient,Neurology,6,49
+2023,Qtr 4,November,12,V0278,Male,6,Pacific Islander,PM,Weekend,Non-Patient,Physiotherapy,1,71
+2023,Qtr 4,November,13,V0297,Female,50,White,PM,Weekday,Patient,Cardiology,3,42
+2023,Qtr 4,November,13,V0449,Male,69,White,AM,Weekday,Patient,General Practice,3,41
+2023,Qtr 4,November,15,V0337,Female,20,Pacific Islander,AM,Weekday,Patient,General Practice,5,25
+2023,Qtr 4,November,15,V0403,Male,37,Pacific Islander,PM,Weekday,Non-Patient,General Practice,2,30
+2023,Qtr 4,November,17,V0018,Female,31,Asian,PM,Weekday,Non-Patient,Neurology,3,75
+2023,Qtr 4,November,17,V0038,Female,70,Pacific Islander,PM,Weekday,Patient,Neurology,4,29
+2023,Qtr 4,November,19,V0221,Female,63,Native American,PM,Weekend,Non-Patient,Neurology,4,54
+2023,Qtr 4,November,20,V0357,Female,75,African American,PM,Weekday,Non-Patient,Cardiology,8,75
+2023,Qtr 4,November,20,V0463,Male,15,Native American,AM,Weekday,Patient,Physiotherapy,8,22
+2023,Qtr 4,November,21,V0154,Female,79,Pacific Islander,PM,Weekday,Non-Patient,General Practice,9,68
+2023,Qtr 4,November,21,V0452,Male,25,African American,AM,Weekday,Non-Patient,Cardiology,8,62
+2023,Qtr 4,November,22,V0077,Male,4,Asian,AM,Weekday,Patient,Neurology,5,15
+2023,Qtr 4,November,22,V0461,Female,12,African American,PM,Weekday,Non-Patient,Orthopedics,1,66
+2023,Qtr 4,November,23,V0022,Female,56,Pacific Islander,PM,Weekday,Patient,General Practice,9,16
+2023,Qtr 4,November,23,V0235,Female,50,Native American,PM,Weekday,Patient,Orthopedics,9,46
+2023,Qtr 4,November,23,V0356,Female,18,White,PM,Weekday,Patient,Neurology,8,44
+2023,Qtr 4,November,23,V0421,Female,62,African American,AM,Weekday,Patient,Cardiology,2,62
+2023,Qtr 4,November,24,V0134,Female,44,Asian,AM,Weekday,Patient,Cardiology,3,76
+2023,Qtr 4,November,24,V0408,Male,50,Pacific Islander,AM,Weekday,Non-Patient,Physiotherapy,2,37
+2023,Qtr 4,November,25,V0109,Female,2,African American,PM,Weekend,Non-Patient,Cardiology,6,22
+2023,Qtr 4,November,25,V0168,Female,56,White,AM,Weekend,Non-Patient,Neurology,10,76
+2023,Qtr 4,November,25,V0475,Female,76,Asian,AM,Weekend,Non-Patient,Neurology,4,73
+2023,Qtr 4,November,26,V0148,Male,18,African American,AM,Weekend,Patient,Orthopedics,8,22
+2023,Qtr 4,November,29,V0036,Female,62,African American,AM,Weekday,Non-Patient,Physiotherapy,7,73
+2023,Qtr 4,November,29,V0198,Female,27,African American,AM,Weekday,Non-Patient,Orthopedics,6,29
+2023,Qtr 4,November,30,V0220,Female,29,Pacific Islander,PM,Weekday,Patient,General Practice,9,49
+2023,Qtr 4,November,30,V0342,Female,13,African American,PM,Weekday,Patient,Orthopedics,8,26
+2023,Qtr 4,December,1,V0059,Female,28,African American,AM,Weekday,Patient,Physiotherapy,2,38
+2023,Qtr 4,December,2,V0135,Female,84,African American,AM,Weekend,Patient,Orthopedics,4,29
+2023,Qtr 4,December,2,V0442,Male,42,Native American,AM,Weekend,Patient,Physiotherapy,1,50
+2023,Qtr 4,December,3,V0061,Female,85,Asian,AM,Weekend,Patient,Physiotherapy,1,21
+2023,Qtr 4,December,5,V0150,Female,46,Native American,PM,Weekday,Non-Patient,Cardiology,10,67
+2023,Qtr 4,December,5,V0478,Female,64,Asian,AM,Weekday,Non-Patient,General Practice,1,85
+2023,Qtr 4,December,6,V0086,Male,49,Asian,AM,Weekday,Non-Patient,General Practice,6,82
+2023,Qtr 4,December,6,V0378,Female,23,Asian,AM,Weekday,Non-Patient,Cardiology,8,61
+2023,Qtr 4,December,8,V0453,Female,13,White,PM,Weekday,Patient,General Practice,8,44
+2023,Qtr 4,December,9,V0016,Female,14,Asian,PM,Weekend,Non-Patient,Physiotherapy,10,19
+2023,Qtr 4,December,9,V0433,Male,46,White,PM,Weekend,Patient,Neurology,10,33
+2023,Qtr 4,December,10,V0107,Female,4,Native American,AM,Weekend,Non-Patient,Physiotherapy,4,30
+2023,Qtr 4,December,10,V0112,Male,60,Pacific Islander,PM,Weekend,Non-Patient,General Practice,3,51
+2023,Qtr 4,December,11,V0406,Male,55,White,PM,Weekday,Non-Patient,Orthopedics,10,57
+2023,Qtr 4,December,12,V0256,Male,60,African American,PM,Weekday,Non-Patient,Physiotherapy,2,36
+2023,Qtr 4,December,13,V0136,Male,64,White,AM,Weekday,Patient,General Practice,1,60
+2023,Qtr 4,December,13,V0245,Male,37,Native American,PM,Weekday,Patient,General Practice,8,70
+2023,Qtr 4,December,14,V0070,Male,9,Native American,AM,Weekday,Patient,Physiotherapy,9,71
+2023,Qtr 4,December,14,V0120,Female,79,Pacific Islander,AM,Weekday,Patient,Cardiology,4,33
+2023,Qtr 4,December,14,V0445,Female,82,Pacific Islander,PM,Weekday,Patient,Orthopedics,7,83
+2023,Qtr 4,December,16,V0121,Female,60,African American,AM,Weekend,Non-Patient,Physiotherapy,6,14
+2023,Qtr 4,December,18,V0160,Female,55,Pacific Islander,PM,Weekday,Patient,Cardiology,2,41
+2023,Qtr 4,December,18,V0182,Female,10,Asian,PM,Weekday,Non-Patient,Orthopedics,5,81
+2023,Qtr 4,December,19,V0180,Female,10,White,PM,Weekday,Non-Patient,Orthopedics,2,55
+2023,Qtr 4,December,19,V0189,Male,40,African American,PM,Weekday,Patient,Orthopedics,4,60
+2023,Qtr 4,December,19,V0360,Female,50,African American,AM,Weekday,Non-Patient,Physiotherapy,5,13
+2023,Qtr 4,December,19,V0446,Female,1,White,PM,Weekday,Non-Patient,Cardiology,7,67
+2023,Qtr 4,December,21,V0128,Female,44,Pacific Islander,PM,Weekday,Patient,Orthopedics,10,70
+2023,Qtr 4,December,21,V0322,Female,55,Pacific Islander,AM,Weekday,Patient,Cardiology,4,76
+2023,Qtr 4,December,22,V0429,Female,30,African American,AM,Weekday,Patient,Physiotherapy,9,79
+2023,Qtr 4,December,22,V0458,Male,10,African American,AM,Weekday,Non-Patient,Neurology,4,64
+2023,Qtr 4,December,23,V0325,Male,20,African American,AM,Weekend,Patient,Neurology,9,46
+2023,Qtr 4,December,24,V0402,Female,67,Asian,AM,Weekend,Non-Patient,Cardiology,9,58
+2023,Qtr 4,December,24,V0430,Male,59,Pacific Islander,PM,Weekend,Non-Patient,Physiotherapy,7,49
+2023,Qtr 4,December,26,V0398,Male,12,African American,PM,Weekday,Non-Patient,Orthopedics,8,85
+2023,Qtr 4,December,27,V0079,Male,12,Native American,PM,Weekday,Patient,Orthopedics,1,28
+2023,Qtr 4,December,27,V0439,Female,23,Pacific Islander,AM,Weekday,Patient,Physiotherapy,2,16
+2023,Qtr 4,December,29,V0290,Male,73,Pacific Islander,PM,Weekday,Non-Patient,Cardiology,8,39
+2023,Qtr 4,December,29,V0320,Male,6,Native American,PM,Weekday,Patient,Neurology,10,71
+2023,Qtr 4,December,29,V0451,Male,15,White,PM,Weekday,Patient,Neurology,3,80
+2023,Qtr 4,December,30,V0167,Female,70,African American,AM,Weekend,Non-Patient,General Practice,2,49
+2023,Qtr 4,December,31,V0030,Male,52,White,PM,Weekend,Patient,General Practice,2,51
+2023,Qtr 4,December,31,V0355,Male,10,Asian,AM,Weekend,Non-Patient,Physiotherapy,10,20
+2024,Qtr 1,January,1,V0133,Female,3,Asian,AM,Weekday,Patient,General Practice,9,53
+2024,Qtr 1,January,1,V0312,Male,58,Pacific Islander,PM,Weekday,Patient,Orthopedics,6,63
