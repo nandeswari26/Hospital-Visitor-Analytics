@@ -43,6 +43,10 @@ The goal is to transform raw hospital data into actionable insights and predicti
 - Weekday vs Weekend Analysis
 - Monthly & Yearly Trends
 
+📷Dashboard Preview
+
+ <img width="1149" height="642" alt="Visitor_Analysis" src="https://github.com/user-attachments/assets/1b661731-46d6-461c-be9f-b189461751ac" />
+
 ---
 
 ## 🤖 Machine Learning Component
